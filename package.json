@@ -1,0 +1,29 @@
+{
+  "name": "basicpremierleague",
+  "version": "1.0.0",
+  "description": "Small app using a 3rd party api to display simple English Premier League data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blair221/basicPremierLeague.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Blair Brownlie-Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blair221/basicPremierLeague/issues"
+  },
+  "homepage": "https://github.com/Blair221/basicPremierLeague#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
